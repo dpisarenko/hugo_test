@@ -1,0 +1,15 @@
+---
+title: "First Hugo Page"
+date: 2020-01-03T15:34:45+01:00
+draft: true
+---
+This is a test of Org Mode with Hugo.
+
+[[http://google.com][Google]]
+
+* Heading 1
+
+** Subhead 2
+
+*Bold*, /italic/, +strikethrough+, _underline_. Can it work?
+
