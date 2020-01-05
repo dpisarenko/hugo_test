@@ -8,5 +8,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Hugo Page</title>
+      <link>/pages/somepage/</link>
+      <pubDate>Fri, 03 Jan 2020 15:34:45 +0100</pubDate>
+      <guid>/pages/somepage/</guid>
+      <description>
+&lt;p&gt;
+This is a test of Org Mode with Hugo.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://google.com&#34;&gt;Google&lt;/a&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Heading 1
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+Subhead 2
+&lt;/h3&gt;
+&lt;p&gt;
+&lt;strong&gt;Bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;strikethrough&lt;/del&gt;, &lt;span style=&#34;text-decoration: underline;&#34;&gt;underline&lt;/span&gt;. Can it work?
+&lt;/p&gt;
+</description>
+    </item>
   </channel>
 </rss>
