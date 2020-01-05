@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/pages/</loc>
+    <lastmod>2020-01-03T15:34:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
